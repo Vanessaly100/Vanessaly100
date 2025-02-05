@@ -27,7 +27,8 @@ Basics of React, TailwindCSS, or building forms with Formik and Yup.
 How to get started with Web3 development and blockchain technology.
 
 📫 How to reach me: ...
-Lydiavanessa103@gmail.com
+Email👉👉
+Lydiavanessa103@gmail.com  github👉👉
 [https://github.com/Vanessaly100/Vanessaly100]
 
 
