@@ -28,11 +28,11 @@ How to get started with Web3 development and blockchain technology.
 
 📫 How to reach me: ...
 Lydiavanessa103@gmail.com
-[Your LinkedIn or GitHub Profile]
-[Your Twitter Handle]
+[https://github.com/Vanessaly100/Vanessaly100]
+
 
 😄 Pronouns: ...
-He/Him, She/Her, or They/Them (choose based on your preference).
+ She/Her,
 ⚡ Fun fact: ...
 I built my first website with WordPress and now I'm diving into Web3!
 I love combining technology with creativity to build unique web experiences.
